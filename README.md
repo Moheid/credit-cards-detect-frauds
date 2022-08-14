@@ -4,15 +4,15 @@ Banks are facing on a daily basis cyber attacks, especially users of credit card
 
 In this problem will look for answers of the following business case questions: 
 
-What are the possible credit cards to be frauded?
+1. What are the possible credit cards to be frauded?
 
-What are the types of credit card frauds?
+2. What are the types of credit card frauds?
 
-Who is the main victim of credit card frauds?
+3. Who is the main victim of credit card frauds?
 
-How to prevent credit card frauds?
+4. How to prevent credit card frauds?
 
-How to detect credit card frauds?
+5. How to detect credit card frauds?
 
-How to report credit card fraud attempts?
+6. How to report credit card fraud attempts?
 
