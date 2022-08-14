@@ -1,4 +1,4 @@
-# How to prevent Bank Credit Card frauds?
+# How to prevent Credit Card frauds?
 
 Banks are facing on a daily basis cyber attacks, especially users of credit cards. These illegal activities cause damage to the financial, images and brand of banks. Thera are a number of attacks attempting  in bank transactions through credit cards. Many customers have lost their money for unauthorized credit card frauds. For these problems will try to build a model to detect frauds before they access customer credit cards by frauds.  
 
